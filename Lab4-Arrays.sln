@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4-Arrays", "Lab4-Arrays\Lab4-Arrays.csproj", "{55B8FE5D-984F-4822-A4F8-36EB071505AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B8FE5D-984F-4822-A4F8-36EB071505AB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{55B8FE5D-984F-4822-A4F8-36EB071505AB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{55B8FE5D-984F-4822-A4F8-36EB071505AB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{55B8FE5D-984F-4822-A4F8-36EB071505AB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
